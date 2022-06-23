@@ -6,3 +6,6 @@
 
 ![](https://github.com/EthanLeonel/Loss-Models/blob/main/R%20Codes/Vista.png)
 
+#### All the work that you can see here was made by:  
+
+- García Melena Ethan Leonel
