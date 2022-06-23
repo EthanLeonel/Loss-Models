@@ -1,4 +1,4 @@
-# Risk Theory Application
+# Loss Models Applications.
 
 - Here you can find a R Codes and Bibliography related to loss functions, Goodness of Fit, Statistics, etc.
 
